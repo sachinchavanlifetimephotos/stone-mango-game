@@ -1,1 +1,1 @@
-# stone-mango-game
+# CP-2
